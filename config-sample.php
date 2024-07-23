@@ -50,6 +50,7 @@ class Config
     const GOOGLE_SYNC_FEATURE = false; // Enter TRUE or FALSE
     const GOOGLE_CLIENT_ID = '';
     const GOOGLE_CLIENT_SECRET = '';
+    const GOOGLE_HIDE_NOTES = false;
 
     // ------------------------------------------------------------------------
     // E-MAIL SETTINGS

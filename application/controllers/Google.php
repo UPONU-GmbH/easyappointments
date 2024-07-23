@@ -205,6 +205,8 @@ class Google extends EA_Controller
                 }
             }
 
+            $hide_notes = config('google_hide_notes');
+
             foreach ($google_events->getItems() as $google_event) {
                 if ($google_event->getStatus() === 'cancelled') {
                     continue;
@@ -243,7 +245,7 @@ class Google extends EA_Controller
                     'end_datetime' => $google_event_end->format('Y-m-d H:i:s'),
                     'is_unavailability' => true,
                     'location' => $google_event->getLocation(),
-                    'notes' => $google_event->getSummary() . ' ' . $google_event->getDescription(),
+                    'notes' => $hide_notes ? "External" : $google_event->getSummary() . ' ' . $google_event->getDescription(),
                     'id_users_provider' => $provider_id,
                     'id_google_calendar' => $google_event->getId(),
                     'id_users_customer' => null,
