@@ -151,7 +151,7 @@
         </button>
         <button type="button" id="button-next-3" class="btn button-next btn-dark"
                 data-step_index="3">
-            <?= lang('next') ?>
+            <?= setting('require_captcha') || $display_terms_and_conditions || $display_privacy_policy ? lang('next') : ($manage_mode ? lang('update') : lang('confirm')) ?>
             <i class="fas fa-chevron-right ms-2"></i>
         </button>
     </div>

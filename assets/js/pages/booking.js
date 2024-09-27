@@ -424,6 +424,12 @@ App.Pages.Booking = (function () {
                 } else {
                     App.Pages.Booking.updateConfirmFrame();
                 }
+
+                // Skip last step if captcha, accept-to-privacy-policy and accept-to-terms-and-conditions is disabled.
+                if($captchaTitle.length===0 && $('#accept-to-terms-and-conditions').length===0 && $('#accept-to-privacy-policy').length===0) {
+                    $bookAppointmentSubmit.trigger("click")
+                    return;
+                }
             }
 
             // Display the next step tab (uses jquery animation effect).
