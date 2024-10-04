@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minuti';
 $lang['price'] = 'Prezzo';
 $lang['back'] = 'Precedente';
 $lang['appointment_date_and_time'] = 'Seleziona data e ora dell\'appuntamento';
+$lang['introduction_text'] = 'Organizzate un incontro introduttivo gratuito e non vincolante con noi. Se avete delle preoccupazioni specifiche, potete comunicarcele e fisseremo per voi un incontro di oltre 15 minuti.';
 $lang['no_available_hours'] = 'Non ci sono appuntamenti disponibili per la data selezionata. Si prega di scegliere un\'altra data.';
 $lang['appointment_hour_missing'] = 'Seleziona un orario d\'appuntamento prima di continuare.';
 $lang['customer_information'] = 'Inserisci le tue informazioni';

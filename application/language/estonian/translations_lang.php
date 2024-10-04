@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minutit';
 $lang['price'] = 'Hind';
 $lang['back'] = 'Tagasi';
 $lang['appointment_date_and_time'] = 'Vali päev ja aeg';
+$lang['introduction_text'] = 'Lepi meiega kokku mittesiduv ja tasuta tutvustav kohtumine. Kui teil on konkreetseid muresid, võite meile sellest teada anda ja me planeerime teile rohkem kui 15 minutit.';
 $lang['no_available_hours'] = 'Valitud päev ja aeg pole saadaval';
 $lang['appointment_hour_missing'] = 'Enne jätkamist, vali aeg';
 $lang['customer_information'] = 'Sisesta andmed';

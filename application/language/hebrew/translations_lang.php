@@ -9,6 +9,8 @@ $lang['minutes'] = 'דקות';
 $lang['price'] = 'מחיר';
 $lang['back'] = 'חזרה';
 $lang['appointment_date_and_time'] = 'בחרו תאריך ושעה לפגישה';
+$lang['introduction_text'] = 'קבעו פגישת היכרות בלתי מחייבת וללא עלות איתנו. אם יש לכם נושאים ספציפיים שתרצו לדון בהם, תוכלו לשתף
+אותנו בכך ונקדיש לכם יותר מ-15 דקות.';
 $lang['no_available_hours'] = 'אין שעות פגישה זמינות לתאריך שנבחר. אנא בחר תאריך אחר.';
 $lang['appointment_hour_missing'] = 'יש לבחור פגישה לפני המשך רישום!';
 $lang['customer_information'] = 'מלאו את הפרטים שלכם';

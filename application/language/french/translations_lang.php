@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minutes';
 $lang['price'] = 'Prix';
 $lang['back'] = 'Retour';
 $lang['appointment_date_and_time'] = 'Choisissez la date et l’heure de votre rendez-vous';
+$lang['introduction_text'] = 'Convenez avec nous d\'un entretien de découverte gratuit et sans engagement. Si vous avez des demandes concrètes, vous pouvez nous les communiquer et nous prévoyons plus de 15 minutes pour vous.';
 $lang['no_available_hours'] = 'Il n’y a pas d’heures de rendez-vous disponibles pour la date sélectionnée. Choisissez une autre date s’il vous plaît.';
 $lang['appointment_hour_missing'] = 'S’il vous plaît, choisissez une heure de rendez-vous avant de pouvoir poursuivre.';
 $lang['customer_information'] = 'Remplissez vos informations';

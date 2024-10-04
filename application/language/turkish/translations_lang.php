@@ -9,6 +9,7 @@ $lang['minutes'] = 'Dakika';
 $lang['price'] = 'Ücret';
 $lang['back'] = 'Önceki';
 $lang['appointment_date_and_time'] = 'Randevu Tarihini ve Zamanını Seçin';
+$lang['introduction_text'] = 'Bizimle bağlayıcı olmayan ve ücretsiz bir tanıtım toplantısı düzenleyin. Belirli endişeleriniz varsa, bize bildirebilirsiniz ve sizin için 15 dakikadan fazla zaman ayırırız.';
 $lang['no_available_hours'] = 'Seçilen tarih için uygun saat bulunmuyor. Lütfen başka bir tarih seçin. ';
 $lang['appointment_hour_missing'] = 'Lütfen devam etmeden önce bir randevu saati seçin.';
 $lang['customer_information'] = 'Bilgilerinizi Girin';

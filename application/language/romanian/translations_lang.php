@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minute';
 $lang['price'] = 'Pret';
 $lang['back'] = 'Anteriorul';
 $lang['appointment_date_and_time'] = 'Selecteaza data si ora întâlnirii';
+$lang['introduction_text'] = 'Stabiliți o întâlnire introductivă gratuită și fără obligații cu noi. Dacă aveți preocupări specifice, ne puteți anunța și vom programa mai mult de 15 minute pentru dvs.';
 $lang['no_available_hours'] = 'Nu este timp disponibil pentru data selectata. Va rugam sa selectati alta data.';
 $lang['appointment_hour_missing'] = 'Va rugam selectati ora întâlnirii înainte de a continua.';
 $lang['customer_information'] = 'Informatii despre dumneavoastra';

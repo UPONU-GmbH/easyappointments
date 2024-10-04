@@ -9,6 +9,7 @@ $lang['minutes'] = 'minuts';
 $lang['price'] = 'Preu';
 $lang['back'] = 'Enrere';
 $lang['appointment_date_and_time'] = 'Selecció de la data i l\'hora de la cita';
+$lang['introduction_text'] = 'Concerteu una reunió de presentació sense compromís i gratuïta amb nosaltres. Si teniu preocupacions concretes, ens les podeu comunicar i planificarem més de 15 minuts per a vosaltres.';
 $lang['no_available_hours'] = 'No hi ha hores disponibles per a la data seleccionada. Seleccioneu una altra data.';
 $lang['appointment_hour_missing'] = 'Seleccioneu-ne una altra abans de continuar.';
 $lang['customer_information'] = 'Introducció de dades personals';

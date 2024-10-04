@@ -9,6 +9,7 @@ $lang['minutes'] = '分';
 $lang['price'] = '料金';
 $lang['back'] = '戻る';
 $lang['appointment_date_and_time'] = '日時の選択';
+$lang['introduction_text'] = '当社との無料の初回相談をアレンジいたします。具体的な懸念事項がある場合は、当社にお知らせください。15分以上の';
 $lang['no_available_hours'] = '選択された日に空席がありません。別の日を選択してください。';
 $lang['appointment_hour_missing'] = '次に行く前に予約時間を選択してください。';
 $lang['customer_information'] = 'お客様のご連絡先';

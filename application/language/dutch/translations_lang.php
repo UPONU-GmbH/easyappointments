@@ -9,6 +9,7 @@ $lang['minutes'] = 'minuten';
 $lang['price'] = 'Prijs:';
 $lang['back'] = 'Vorige';
 $lang['appointment_date_and_time'] = 'Selecteer een datum en tijd';
+$lang['introduction_text'] = 'Maak een afspraak voor een vrijblijvend en gratis kennismakingsgesprek met ons. Als je specifieke zorgen hebt, kun je ons dat laten weten en dan plannen we meer dan 15 minuten voor je in.';
 $lang['no_available_hours'] = 'Het is momenteel niet mogelijk een afspraak te maken op die datum. Kies een andere datum.';
 $lang['appointment_hour_missing'] = 'Kies een tijd voordat u verder gaat.';
 $lang['customer_information'] = 'Vul uw informatie in';

@@ -8,7 +8,11 @@
 
 <div id="wizard-frame-2" class="wizard-frame" style="display:none;">
     <div class="frame-container">
-
+			<div style="padding: 1rem;">
+				<span style="font-size: 1.125rem; line-height: 1.6; color: #666; font-weight: 100;">
+					<?= lang('introduction_text') ?>
+				</span>
+	        </div>
         <h2 class="frame-title"><?= lang('appointment_date_and_time') ?></h2>
 
         <div class="row frame-content">

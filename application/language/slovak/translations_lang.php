@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minút';
 $lang['price'] = 'Cena';
 $lang['back'] = 'Späť';
 $lang['appointment_date_and_time'] = 'Zvoľte si dátum a čas rezervácie';
+$lang['introduction_text'] = 'Dohodnite si s nami nezáväzné a bezplatné úvodné stretnutie. Ak máte konkrétne obavy, môžete nám ich oznámiť a my vám naplánujeme viac ako 15 minút.';
 $lang['no_available_hours'] = 'Čas pre vybraný dátum nieje k dispozícii. Prosím, vyberte si iný termín.';
 $lang['appointment_hour_missing'] = 'Prosím, vyberte si hodinu pred pokračovaním.';
 $lang['customer_information'] = 'Vyplňte svoje údaje';

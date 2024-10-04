@@ -9,6 +9,7 @@ $lang['minutes'] = 'دقائق';
 $lang['price'] = 'السعر';
 $lang['back'] = 'الخلف';
 $lang['appointment_date_and_time'] = 'اختر وقت وتاريخ الموعد';
+$lang['introduction_text'] = 'قم بترتيب اجتماع تمهيدي غير ملزم ومجاني معنا. إذا كانت لديك مخاوف محددة، يمكنك إخبارنا وسنحدد لك موعداً لأكثر من 15 دقيقة.';
 $lang['no_available_hours'] = 'لا يوجد مواعيد متاحة في الوقت الذي تم إختياره الرجاء اختيار وقت آخر';
 $lang['appointment_hour_missing'] = 'الرجاء اختيار ساعة الموعد قبل الإكمال';
 $lang['customer_information'] = 'معلومات العميل';

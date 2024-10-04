@@ -9,6 +9,7 @@ $lang['minutes'] = 'minuti';
 $lang['price'] = 'Cena usluge';
 $lang['back'] = 'Nazad';
 $lang['appointment_date_and_time'] = 'Izaberite datum i vreme posete';
+$lang['introduction_text'] = 'Dogovorite neobavezujući i besplatni uvodni razgovor s nama. Ako imate konkretne zahteve, slobodno ih podelite s nama, a mi ćemo planirati više od 15 minuta za vas.';
 $lang['no_available_hours'] = 'Nema slobodnih termina za odabrani datum. Izaberite drugi datum.';
 $lang['appointment_hour_missing'] = 'Izaberite vreme posete pre nego što nastavite!';
 $lang['customer_information'] = 'Upišite svoje podatke';

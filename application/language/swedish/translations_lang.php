@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minuter:';
 $lang['price'] = 'Pris:';
 $lang['back'] = 'Tillbaka';
 $lang['appointment_date_and_time'] = 'Välj datum och tid';
+$lang['introduction_text'] = 'Boka ett kostnadsfritt och icke-bindande introduktionsmöte med oss. Om du har särskilda frågor kan du meddela oss så bokar vi in mer än 15 minuter för dig.';
 $lang['no_available_hours'] = 'Det finns ingen ledig tid för det valda datumet.';
 $lang['appointment_hour_missing'] = 'Välj en tid för att fortsätta.';
 $lang['customer_information'] = 'Fyll i din information';

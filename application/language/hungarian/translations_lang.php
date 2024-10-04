@@ -9,6 +9,7 @@ $lang['minutes'] = 'Perc';
 $lang['price'] = 'Ár';
 $lang['back'] = 'Vissza';
 $lang['appointment_date_and_time'] = 'Válaszd ki az időpont dátumát és idejét';
+$lang['introduction_text'] = 'Szervezzen velünk egy nem kötelező erejű és ingyenes bemutatkozó találkozót. Ha konkrét aggályai vannak, tudassa velünk, és mi 15 percnél több időt fogunk beütemezni Önnek.';
 $lang['no_available_hours'] = 'A kiválasztott napon nincsen szabad időpont. Kérlek válassz másik dátumot.';
 $lang['appointment_hour_missing'] = 'Válassz egy időpontot mielőtt folytatnád.';
 $lang['customer_information'] = 'Töltsd ki az adataidat.';

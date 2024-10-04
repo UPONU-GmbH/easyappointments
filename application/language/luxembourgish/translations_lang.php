@@ -9,6 +9,7 @@ $lang['minutes'] = 'Minutten';
 $lang['price'] = 'Präis';
 $lang['back'] = 'Zeréck';
 $lang['appointment_date_and_time'] = 'Auswiel vum Datum an der Auerzäit vum Termäin';
+$lang['introduction_text'] = 'Sidd Dir häerzlech agelueden, en onverbindlechen an gratis Kennenlergespréich mat eis ze vereinbaren. Wann Dir konkret Froen oder Uleies hutt, kennt Dir eis déi matdeelen, an da plange mir méi wéi 15 Minutten fir Iech an.';
 $lang['no_available_hours'] = 'Et gëtt leider kee fräie Termäin méi fir deen ausgewielten Dag. Wielt w.e.g. en aner Dag aus.';
 $lang['appointment_hour_missing'] = 'Wielt w.e.g. ee Termäin iert Der weider maacht.';
 $lang['customer_information'] = 'Gitt w.e.g. Är perséinlech Donnéeën an';
